@@ -1,0 +1,12 @@
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/008/670/264/original/the-farmer-is-working-out-of-his-farm-free-video.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    color: rgb(12, 1, 1);
+    font-family: Arial, sans-serif;
+    text-shadow: 2px 2px #333;
+  }
