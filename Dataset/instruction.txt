@@ -1,0 +1,3 @@
+## Download The Dataset from the following Link:
+
+https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download
