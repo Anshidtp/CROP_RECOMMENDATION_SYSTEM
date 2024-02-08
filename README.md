@@ -1,4 +1,5 @@
 # CROP_RECOMMENDATION_SYSTEM
 
+### DEMO
 
-![Demo Animation](Research/crop_recommeder demo.gif)
+![Demo Animation](https://github.com/Anshidtp/CROP_RECOMMENDATION_SYSTEM/blob/main/Research/crop_recommeder%20demo.gif)
