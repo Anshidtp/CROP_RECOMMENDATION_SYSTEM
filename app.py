@@ -1,6 +1,7 @@
 import joblib
 from flask import Flask, render_template, request, redirect
 
+
 #initialize the flask
 app = Flask(__name__)
 
